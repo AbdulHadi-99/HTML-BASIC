@@ -1,1 +1,1 @@
-# HTML-BASIC
+# smit practice
