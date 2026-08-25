@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    color: #0d395f;
+    font-style: italic;
+   font-size: 90px;
+   margin-bottom: 15px;
+   margin-top: 5px;
+   margin-left: 30%;;
+
+}
+
+h2{color: gold;
+    font-style: oblique;
+    font-size: 50px;
+    line-height: normal;
+}
+
+p{
+    color: gray;
+    font-size: 20px;
+    word-spacing: normal;
+}
+
+ul{
+    color: chartreuse;
+    font-size: 30px;
+}
+
+div > p {
+color: blueviolet;
+size: 50px;
+}
+
+div > h2 {
+    color: chocolate;
+    size: 90px;
+}
